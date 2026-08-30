@@ -7,7 +7,7 @@ Live site: https://vibework.pages.bu.app/
 ## What is included
 
 - Search across the catalog by name, category, or description
-- Category filters for mainstream, niche, new wave, decentralized, regional, and more
+- Category buttons for mainstream, niche, new wave, decentralized, regional, and more
 - A visible link to every listed network
 - Expandable "what you can do" descriptions on every card
 - A local-only submit button for trying a new entry in the current browser
